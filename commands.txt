@@ -24,3 +24,4 @@
   23 git restore testing.py
   24 git status
   25 clear
+  26 hello dossto
