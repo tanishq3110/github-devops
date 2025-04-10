@@ -1,0 +1,26 @@
+  -- -----------
+   1 try { . "c:\Users\danish\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegration.ps1" }...
+   2 python -u "c:\Users\danish\OneDrive\Desktop\github-devops\testing.py"
+   3 python -u "c:\Users\danish\OneDrive\Desktop\github-devops\testing.py"
+   4 python testing.py
+   5 python -u "c:\Users\danish\OneDrive\Desktop\github-devops\testing.py"
+   6 python testing.py
+   7 ls -l
+   8 Get-ChildItem | Format-Table...
+   9 clear
+  10 rm testing.py...
+  11 git init
+  12 ls -Force...
+  13 git status
+  14 git status
+  15 git add testing.py
+  16 git status
+  17 git commit -m  "adding testing"
+  18 clear
+  19 git status
+  20 rm testing.py
+  21 git status
+  22 git restor testing.py
+  23 git restore testing.py
+  24 git status
+  25 clear
